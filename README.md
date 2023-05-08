@@ -3,7 +3,7 @@
 
 # Bullseye.com (Target Clone)
 
-This repository is from Front-End Capstone (FEC) project that I worked on with Operation LevelUp - Advanced Software Engineering Web Immersive course offered through Galvanize Inc. The project focuses on creating a clone of a product detail page from Target.com, focused on functionality and proper stylization to simulate what the user would experience when visiting a similar Target product page.
+This repository is from the Front-End Capstone (FEC) project that I worked on with Operation LevelUp - Advanced Software Engineering Web Immersive course offered through Galvanize Inc. The project focuses on creating a clone of a product detail page from Target.com, focused on functionality and proper stylization to simulate what the user would experience when visiting a similar Target product page.
 
 
 ## Table of Contents
