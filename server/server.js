@@ -6,11 +6,19 @@ const port = process.env.PORT || 3000;
 app.use(express.json());
 app.use(cors());
 
+// const pool = new Pool({
+//   connectionString: process.env.DATABASE_URL,
+//   ssl: {
+//       rejectUnauthorized: false
+//   }
+// });
+
 const pool = new Pool({
-  connectionString: process.env.DATABASE_URL,
-  ssl: {
-      rejectUnauthorized: false
-  }
+  user: 'postgres',
+  host: '127.0.0.1',
+  database: 'bullseye',
+  password: 'bullseye',
+  port: 5432,
 });
 
 
