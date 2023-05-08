@@ -2,7 +2,6 @@
 
 This repository is from Front-End Capstone (FEC) project that I worked on with Operation LevelUp - Advanced Software Engineering Web Immersive course offered through Galvanize Inc. The project focuses on creating a clone of a product detail page from Target.com, focused on functionality and proper stylization to simulate what the user would experience when visiting a similar Target product page.
 
-> Original Page: https://www.target.com/p/nikon-d7500-dx-format-dslr-camera-body-only-black/-/A-84158520
 
 ## Table of Contents
   - [General Information](#general-information)
