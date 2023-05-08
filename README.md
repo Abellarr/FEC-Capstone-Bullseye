@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 # Bullseye.com (Target Clone)
 
 This repository is from Front-End Capstone (FEC) project that I worked on with Operation LevelUp - Advanced Software Engineering Web Immersive course offered through Galvanize Inc. The project focuses on creating a clone of a product detail page from Target.com, focused on functionality and proper stylization to simulate what the user would experience when visiting a similar Target product page.
@@ -96,7 +99,7 @@ The following are components/services we originally wanted to add into the proje
 ## Acknowledgements
 - Team Members:
     - Kevin Sossa- Header, Product Photo (with mouseover zoom), About this item components
-    - Shuyi Hoo- Express server with routes, Add to Cart
+    - Shuyi Hoo- Express server with routes, Add to Cart components
     - Javaney Thomas- Footer component and CSS styling
 
 - Instructors:
@@ -113,3 +116,4 @@ davidlortiz610@gmail.com
 
 
 ## License
+This repository falls under an open source MIT License.
